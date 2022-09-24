@@ -1,6 +1,6 @@
 # Der Standard (v 2.0.2)
 
-Reden Sie mit uns auf Discord:
+Rede mit uns auf Discord:
 
 [![Discord](https://discord.com/api/guilds/934130100008538142/widget.png?style=banner2)](https://discord.gg/vdPZ7hS52X)
 
