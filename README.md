@@ -1,4 +1,4 @@
-# Der Standard (v 2.0.2)
+# Der Standard (Übersetzung aus The Standard v 2.0.3)
 
 Rede mit uns auf Discord:
 
@@ -36,3 +36,18 @@ Rede mit uns auf Discord:
         - [0.1.2.0.2 Konfigurationsmodelle](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.1%20Zweckbestimmung%2C%20Modellierung%20und%20Simulation.md#01202-konfigurationsmodelle)
     - [0.1.3 Simulation](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.1%20Zweckbestimmung%2C%20Modellierung%20und%20Simulation.md#013-simulation)
     - [0.1.4 Zusammenfassung](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.1%20Zweckbestimmung%2C%20Modellierung%20und%20Simulation.md#014-zusammenfassung)
+ - [0.2 Grundsätze](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#02-grunds%C3%A4tze)
+   - [0.2.0 Der Mensch im Mittelpunkt](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#020-der-mensch-im-mittelpunkt)
+     - [0.2.0.0 Einfachheit](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#0200-einfachheit)
+       - [0.2.0.0.0 Übermäßige Vererbung](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#02000-%C3%BCberm%C3%A4%C3%9Fige-vererbung)
+       - [0.2.0.0.1 Verflechtung](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#02001-verflechtung)
+       - [0.2.0.0.2 Autonome Komponenten](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#02002-autonome-komponenten)
+         - [0.2.0.0.2.0 Keine Magie](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#020020-keine-magie)
+   - [0.2.1 Wiederbeschreibbarkeit](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#021-wiederbeschreibbarkeit)
+   - [0.2.2 Mono-Micro](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#022-mono-micro)
+   - [0.2.3 Stufe Null](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#023-stufe-null)
+   - [0.2.4 Offener Code](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#024-offener-code)
+   - [0.2.5 Flugzeugmodus (Cloud-Foreign)](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#025-flugzeugmodus-cloud-foreign)
+   - [0.2.6 Keine Toaster](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#026-keine-toaster)
+   - [0.2.7 Weitergabe](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#027-weitergabe)
+ - [0.3 Erfahrungsberichte](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.3%20Testimonials.md)
