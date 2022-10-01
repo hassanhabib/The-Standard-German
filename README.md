@@ -51,3 +51,13 @@ Rede mit uns auf Discord:
    - [0.2.6 Keine Toaster](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#026-keine-toaster)
    - [0.2.7 Weitergabe](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.2%20Grunds%C3%A4tze.md#027-weitergabe)
  - [0.3 Erfahrungsberichte](https://github.com/hassanhabib/The-Standard-German/blob/main/0.%20Einleitung/0.3%20Testimonials.md)
+
+---
+
+<h3>Anerkennung</h3>
+
+Vielen dank an Hassan für das Orginal The Standard, der hoffentlich auch in dieser Übersetzung neue Freunde findet.
+
+Vielen dank an das Team von [DeepL](https://www.deepl.com/), ohne die diese Übersetzung so zeiteffizient nicht möglich gewesen wäre.
+
+---
