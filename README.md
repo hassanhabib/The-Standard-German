@@ -70,7 +70,23 @@ Rede mit uns auf Discord:
   - [1.5 Implementierung](https://github.com/hassanhabib/The-Standard-German/blob/main/1.%20Broker/1.%20Broker.md#15-implementierung)
   - [1.6 Zusammenfassung](https://github.com/hassanhabib/The-Standard-German/blob/main/1.%20Broker/1.%20Broker.md#16-zusammenfassung)
   - [1.7 FAQs](https://github.com/hassanhabib/The-Standard-German/blob/main/1.%20Broker/1.%20Broker.md#17-faqs)
-
+- [2 Dienste](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#2-dienste)
+  - [2.0 Einleitung](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#20-einleitung)
+    - [2.0.0 Dienstoperationen](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#200-dienstoperationen)
+      - [2.0.0.0 Validierungen](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#2000-validierungen)
+      - [2.0.0.1 Verarbeitung](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#2001-verarbeitung)
+      - [2.0.0.2 Integration](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#2002-integration)
+    - [2.0.1 Diensttypen](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#201-diensttypen)
+      - [2.0.1.0 Validierer](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#2010-validierer)
+      - [2.0.1.1 Orchestratoren](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#2011-orchestratoren)
+      - [2.0.1.2 Aggregatoren](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#2012-aggregatoren)
+    - [2.0.2 Allgemeine Regeln](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#202-allgemeine-regeln)
+      - [2.0.2.0 Tun oder Delegieren](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#2020-tun-oder-delegieren)
+      - [2.0.2.1 Zwei-Drei (Florance-Muster)](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#2021-zwei-drei-florance-muster)
+      - [2.0.2.2 Einzelner Expositionspunkt](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#2022-einzelner-expositionspunkt)
+      - [2.0.2.3 Gleiches oder primitives Modell](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#2023-gleiches-oder-primitives-modell)
+      - [2.0.2.4 Jeder Dienst für sich selbst](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.%20Dienste.md#2024-jeder-dienst-f%C3%BCr-sich-selbst)
+    
 ---
 
 <h3>Anerkennung</h3>
