@@ -124,7 +124,19 @@ Rede mit uns auf Discord:
         - [2.2.3.1 Abbildung von Unterschriften](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.2%20Verarbeitung/2.2%20Verarbeitung.md#2231-abbildung-von-unterschriften)
           - [2.2.3.1.0 Lokale Modelle ohne Ausnahmen](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.2%20Verarbeitung/2.2%20Verarbeitung.md#22310-lokale-modelle-ohne-ausnahmen)
           - [2.2.3.1.1 Ausnahmemodelle](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.2%20Verarbeitung/2.2%20Verarbeitung.md#22311-ausnahmemodelle)
-    
+    - [2.3 Orchestrierungsdienste (Komplexe Logik höherer Ordnung)](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md)
+      - [2.3.0 Einleitung](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md#230-einleitung)
+      - [2.3.1 Auf der Landkarte](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md#231-auf-der-landkarte)
+      - [2.3.2 Merkmale](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md#232-merkmale)
+        - [2.3.2.0 Sprache](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md#2320-sprache)
+        - [2.3.2.1 Abhängigkeiten](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md#2321-abh%C3%A4ngigkeiten)
+        - [2.3.2.2 Verträge](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md#2322-vertr%C3%A4ge)
+        - [2.3.2.2 Cul-De-Sac](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md#2322-cul-de-sac)
+      - [2.3.3 Verantwortlichkeiten](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md#233-verantwortlichkeiten)
+        - [2.3.3.0 Erweiterte Logik](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md#2330-erweiterte-logik)
+      - [2.3.4 Variationen](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md#234-variationen)
+        - [2.3.4.0 Varianten Ebenen](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md#2340-varianten-ebenen)
+        - [2.3.4.1 Einheit der Arbeit](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md#2341-einheit-der-arbeit)
 ---
 
 <h3>Anerkennung</h3>
