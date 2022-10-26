@@ -137,6 +137,20 @@ Rede mit uns auf Discord:
       - [2.3.4 Variationen](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md#234-variationen)
         - [2.3.4.0 Varianten Ebenen](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md#2340-varianten-ebenen)
         - [2.3.4.1 Einheit der Arbeit](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.3%20Orchestrierung/2.3%20Orchestrierung.md#2341-einheit-der-arbeit)
+    - [2.4 Aggregationsdienste (Der Knoten)](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#24-aggregationsdienste-der-knoten)
+      - [2.4.0 Einleitung](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#240-einleitung)
+      - [2.4.1 Auf der Karte](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#241-auf-der-landkarte)
+      - [2.4.2 Merkmale](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#242-merkmale)
+        - [2.4.2.0 Keine Abhängigkeitsbegrenzung](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#2420-keine-abh%C3%A4ngigkeitsbegrenzung)
+        - [2.4.2.1 Keine Auftragsprüfung](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#2421-keine-auftragspr%C3%BCfung)
+        - [2.4.2.2 Grundlegende Validierungen](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#2422-grundlegende-validierungen)
+        - [2.4.2.3 Durchreichen](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#2423-durchreichen)
+        - [2.4.2.4 Optionalität](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#2424-optionalit%C3%A4t)
+        - [2.4.2.5 Aggregation auf Routine-Ebene](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#2425-aggregation-auf-routine-ebene)
+        - [2.4.2.6 Reine Abhängigkeitsverträge](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#2426-reine-abh%C3%A4ngigkeitsvertr%C3%A4ge)
+      - [2.4.3 Zuständigkeiten](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#243-zust%C3%A4ndigkeiten)
+        - [2.4.3.0 Abstraktion](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#2430-abstraktion)
+        - [2.4.3.1 Aggregation von Ausnahmen](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#2431-aggregation-von-ausnahmen)
 ---
 
 <h3>Anerkennung</h3>
