@@ -151,6 +151,17 @@ Rede mit uns auf Discord:
       - [2.4.3 Zuständigkeiten](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#243-zust%C3%A4ndigkeiten)
         - [2.4.3.0 Abstraktion](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#2430-abstraktion)
         - [2.4.3.1 Aggregation von Ausnahmen](https://github.com/hassanhabib/The-Standard-German/blob/main/2.%20Dienste/2.4%20Aggregation/2.4%20Aggregation.md#2431-aggregation-von-ausnahmen)
+  - [3 Expositionen](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.%20Expositionen.md#3-expositionen)
+    - [3.0 Einführung](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.%20Expositionen.md#30-einf%C3%BChrung)
+      - [3.0.0 Zweck](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.%20Expositionen.md#300-zweck)
+        - [3.0.0.0 Reines Mapping](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.%20Expositionen.md#3000-reines-mapping)
+        - [3.0.1 Arten von Expositionskomponenten](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.%20Expositionen.md#301-arten-von-expositionskomponenten)
+        - [3.0.1.0 Kommunikationsprotokolle](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.%20Expositionen.md#3010-kommunikationsprotokolle)
+        - [3.0.1.1 Benutzerschnittstellen](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.%20Expositionen.md#3011-benutzerschnittstellen)
+        - [3.0.1.2 I/O-Komponenten](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.%20Expositionen.md#3012-io-komponenten)
+      - [3.0.2 Einziger Kontaktpunkt](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.%20Expositionen.md#302-einziger-kontaktpunkt)
+      - [3.0.3 Beispiele](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.%20Expositionen.md#303-beispiele)
+      - [3.0.4 Zusammenfassung](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.%20Expositionen.md#304-zusammenfassung)
 ---
 
 <h3>Anerkennung</h3>
