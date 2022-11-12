@@ -162,6 +162,16 @@ Rede mit uns auf Discord:
       - [3.0.2 Einziger Kontaktpunkt](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.%20Expositionen.md#302-einziger-kontaktpunkt)
       - [3.0.3 Beispiele](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.%20Expositionen.md#303-beispiele)
       - [3.0.4 Zusammenfassung](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.%20Expositionen.md#304-zusammenfassung)
+    - [3.1 Kommunikationsprotokolle](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.1%20Kommunikationsprotokolle/3.1%20Kommunikationsprotokolle.md#31-kommunikationsprotokolle)
+      - [3.1.0 Einführung](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.1%20Kommunikationsprotokolle/3.1%20Kommunikationsprotokolle.md#310-einf%C3%BChrung)
+        - [3.1.0.0 Grundsätze und Regeln](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.1%20Kommunikationsprotokolle/3.1%20Kommunikationsprotokolle.md#3100-grunds%C3%A4tze-und-regeln)
+          - [3.1.0.0.0 Ergebniskommunikation](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.1%20Kommunikationsprotokolle/3.1%20Kommunikationsprotokolle.md#31000-ergebniskommunikation)
+          - [3.1.0.0.1 Fehlerberichte](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.1%20Kommunikationsprotokolle/3.1%20Kommunikationsprotokolle.md#31001-fehlerberichte)
+        - [3.1.0.1 Allgemeine Typen](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.1%20Kommunikationsprotokolle/3.1%20Kommunikationsprotokolle.md#3101-allgemeine-typen)
+          - [3.1.0.1.0 REST](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.1%20Kommunikationsprotokolle/3.1%20Kommunikationsprotokolle.md#31010-rest)
+          - [3.1.0.1.1 Bibliotheken](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.1%20Kommunikationsprotokolle/3.1%20Kommunikationsprotokolle.md#31011-bibliotheken)
+          - [3.1.0.1.2 Andere Typen](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.1%20Kommunikationsprotokolle/3.1%20Kommunikationsprotokolle.md#31012-andere-typen)
+        
 ---
 
 <h3>Anerkennung</h3>
