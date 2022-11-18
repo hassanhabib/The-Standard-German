@@ -192,7 +192,15 @@ Rede mit uns auf Discord:
         - [3.1.1.3 Organisation](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.1%20Kommunikationsprotokolle/3.1.1%20RESTful%20APIs/3.1.1%20RESTful%20APIs.md#3113-organisation)
         - [3.1.1.4 Heimsteuerung](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.1%20Kommunikationsprotokolle/3.1.1%20RESTful%20APIs/3.1.1%20RESTful%20APIs.md#3114-heimsteuerung)
         - [3.1.1.5 Tests](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.1%20Kommunikationsprotokolle/3.1.1%20RESTful%20APIs/3.1.1%20RESTful%20APIs.md#3115-tests)
-        
+    - [3.2 Benutzerschnittstellen](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#32-benutzerschnittstellen)
+      - [3.2.0 Einführung](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#320-einf%C3%BChrung)
+        - [3.2.0.0 Grundsätze und Regeln](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#3200-grunds%C3%A4tze-und-regeln)
+          - [3.2.0.0.0 Fortschritt (Laden)](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#32000-fortschritt-laden)
+          - [3.2.0.0.1 Ergebnisse](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#32001-ergebnisse)
+          - [3.2.0.0.2 Fehlerberichte](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#32002-fehlerberichte)
+          - [3.2.0.0.3 Einzelabhängigkeit](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#32003-einzelabh%C3%A4ngigkeit)
+          - [3.2.0.0.4 Anatomie](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#32004-anatomie)
+          - [3.2.0.0.5 UI-Komponententypen](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#32005-ui-komponententypen)
 ---
 
 <h3>Anerkennung</h3>
