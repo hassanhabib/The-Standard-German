@@ -192,7 +192,7 @@ Rede mit uns auf Discord:
         - [3.1.1.3 Organisation](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.1%20Kommunikationsprotokolle/3.1.1%20RESTful%20APIs/3.1.1%20RESTful%20APIs.md#3113-organisation)
         - [3.1.1.4 Heimsteuerung](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.1%20Kommunikationsprotokolle/3.1.1%20RESTful%20APIs/3.1.1%20RESTful%20APIs.md#3114-heimsteuerung)
         - [3.1.1.5 Tests](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.1%20Kommunikationsprotokolle/3.1.1%20RESTful%20APIs/3.1.1%20RESTful%20APIs.md#3115-tests)
-    - [3.2 Benutzerschnittstellen](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#32-benutzerschnittstellen)
+    - [3.2 Benutzeroberflächen](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#32-benutzerschnittstellen)
       - [3.2.0 Einführung](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#320-einf%C3%BChrung)
         - [3.2.0.0 Grundsätze und Regeln](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#3200-grunds%C3%A4tze-und-regeln)
           - [3.2.0.0.0 Fortschritt (Laden)](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#32000-fortschritt-laden)
@@ -201,6 +201,16 @@ Rede mit uns auf Discord:
           - [3.2.0.0.3 Einzelabhängigkeit](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#32003-einzelabh%C3%A4ngigkeit)
           - [3.2.0.0.4 Anatomie](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#32004-anatomie)
           - [3.2.0.0.5 UI-Komponententypen](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2%20Benutzeroberfl%C3%A4chen.md#32005-ui-komponententypen)
+      - [3.2.1 Webanwendungen](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2.1%20Webanwendungen/3.2.1%20Webanwendungen.md#321-webanwendungen)
+        - [3.2.1.0 Einführung](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2.1%20Webanwendungen/3.2.1%20Webanwendungen.md#3210-einf%C3%BChrung)
+        - [3.2.1.1 Auf der Karte](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2.1%20Webanwendungen/3.2.1%20Webanwendungen.md#3211-auf-der-karte)
+        - [3.2.1.2 Merkmale](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2.1%20Webanwendungen/3.2.1%20Webanwendungen.md#3212-merkmale)
+          - [3.2.1.2.0 Anatomie](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2.1%20Webanwendungen/3.2.1%20Webanwendungen.md#32120-anatomie)
+            - [3.2.1.2.0.0 Basiskomponente](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2.1%20Webanwendungen/3.2.1%20Webanwendungen.md#321200-basiskomponente)
+            - [3.2.1.2.0.1 Kernkomponente](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2.1%20Webanwendungen/3.2.1%20Webanwendungen.md#321201-kernkomponente)
+            - [3.2.1.2.0.2 Seiten](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2.1%20Webanwendungen/3.2.1%20Webanwendungen.md#321202-seiten)
+            - [3.2.1.2.0.3 Unauffälligkeit](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2.1%20Webanwendungen/3.2.1%20Webanwendungen.md#321203-unauff%C3%A4lligkeit)
+            - [3.2.1.2.0.3 Unauffälligkeit](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2.1%20Webanwendungen/3.2.1%20Webanwendungen.md#321204-organisation)
 ---
 
 <h3>Anerkennung</h3>
