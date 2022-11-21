@@ -210,7 +210,7 @@ Rede mit uns auf Discord:
             - [3.2.1.2.0.1 Kernkomponente](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2.1%20Webanwendungen/3.2.1%20Webanwendungen.md#321201-kernkomponente)
             - [3.2.1.2.0.2 Seiten](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2.1%20Webanwendungen/3.2.1%20Webanwendungen.md#321202-seiten)
             - [3.2.1.2.0.3 Unauffälligkeit](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2.1%20Webanwendungen/3.2.1%20Webanwendungen.md#321203-unauff%C3%A4lligkeit)
-            - [3.2.1.2.0.3 Unauffälligkeit](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2.1%20Webanwendungen/3.2.1%20Webanwendungen.md#321204-organisation)
+            - [3.2.1.2.0.4 Organisation](https://github.com/hassanhabib/The-Standard-German/blob/main/3.%20Expositionen/3.2%20Benutzeroberfl%C3%A4chen/3.2.1%20Webanwendungen/3.2.1%20Webanwendungen.md#321204-organisation)
 ---
 
 <h3>Anerkennung</h3>
